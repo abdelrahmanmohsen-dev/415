@@ -1,0 +1,11 @@
+# Part 1: FastAPI & Data Validation
+fastapi[standard]
+pydantic
+
+# Part 2: Ollama API Integration (Local & Cloud)
+requests
+python-dotenv
+
+# Interactive Environment
+jupyter
+notebook
